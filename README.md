@@ -15,3 +15,10 @@ A Python-based inventory management system with FastAPI backend, SQLite database
 - FastAPI
 - SQLite
 - PyQt5
+## How to run
+  Open the terminal
+  Run database.py for databases
+  Then run the command uvicorn app2:app for starting the server
+  Open new terminal
+  Run python inventory_ui.py for ui
+  
